@@ -12,8 +12,6 @@ O site teve base no nosso TCC (Trabalho de conclusão de curso), o que se trata 
 - MySql
 - API de localização do Google.
 
-<img src="https://tenor.com/view/yeah-yes-woo-excited-clap-gif-6158577"/>
-
 _Esse trabalho foi desenvolvido com muito amor e empenho! <3_
 
 Link do site: http://equiperenard.atwebpages.com/
