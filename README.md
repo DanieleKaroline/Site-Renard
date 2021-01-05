@@ -13,7 +13,7 @@ O site teve base no nosso TCC (Trabalho de conclusão de curso), o que se trata 
 - API de localização do Google.
 
 
-<img src="https://media1.tenor.com/images/50319840f334e93d5bfa59eb38564ba6/tenor.gif?itemid=6158577">
+<div class="tenor-gif-embed" data-postid="6158577" data-share-method="host" data-width="100%" data-aspect-ratio="1.7777777777777777"><a href="https://tenor.com/view/yeah-yes-woo-excited-clap-gif-6158577"></a> <a href="https://tenor.com/search/yeah-gifs"></a></div>
 
 _Esse trabalho foi desenvolvido com muito amor e empenho! <3_
 
